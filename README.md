@@ -4,8 +4,8 @@
 **Units:** USD (millions)
 
 ## Overview
-This project analyzes Apple Inc.’s financial statements to evaluate profitability, liquidity, leverage, and cash flow sustainability.  
-An Excel dashboard visualizes year-over-year trends.
+- This project analyzes Apple Inc.’s financial statements to evaluate profitability, liquidity, leverage, and cash flow sustainability.  
+- An Excel dashboard visualizes year-over-year trends.
 
 ## Financial Statements
 
