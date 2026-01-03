@@ -13,4 +13,11 @@ The analysis combines structured financial ratio analysis with an Excel dashboar
 - Profitability: Net Profit Margin, Operating Margin  
 - Liquidity: Current Ratio  
 - Capital Structure: Debt-to-Equity Ratio  
-- Cash Flow Quality: Operating Cash Flow to Net Income, Free Cash Flow  
+- Cash Flow Quality: Operating Cash Flow to Net Income, Free Cash Flow
+
+## Contents
+images/Dashboard.png
+images/Key Ratios.png
+images/Income Statement.png
+images/Cash Flow Statement.png
+images/Balance Sheet.png
