@@ -16,15 +16,20 @@ The analysis combines structured financial ratio analysis with an Excel dashboar
 - Cash Flow Quality: Operating Cash Flow to Net Income, Free Cash Flow
 
 ## Content Preview
-“Dashboard”: ![Dashboard](images/dashboard.png)
+“Dashboard”: 
+![Dashboard](images/dashboard.png)
 
-"Key Ratios":![Dashboard](images/key-ratios.png)
+"Key Ratios":
+![Dashboard](images/key-ratios.png)
 
-“Income Statement”: ![Dashboard](images/income-statement.png)
+“Income Statement”: 
+![Dashboard](images/income-statement.png)
 
-“Balance Sheet”:![Dashboard](images/balance-sheet.png)
+“Balance Sheet”:
+![Dashboard](images/balance-sheet.png)
 
-“Cash Flow Statement”:![Dashboard](images/cash-flow-statement.png)
+“Cash Flow Statement”:
+![Dashboard](images/cash-flow-statement.png)
 
 
 
