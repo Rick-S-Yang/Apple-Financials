@@ -17,3 +17,7 @@ The analysis combines structured financial ratio analysis with an Excel dashboar
 
 ## Content Preview
 ![Dashboard](images/dashboard.png)
+![Dashboard](images/key-ratios.png)
+![Dashboard](images/income-statement.png)
+![Dashboard](images/cash-flow-statement.png)
+![Dashboard](images/balance-sheet.png)
