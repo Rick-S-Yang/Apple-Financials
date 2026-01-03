@@ -4,6 +4,9 @@
 This project analyzes **Apple Inc.’s** financial statements to evaluate profitability, liquidity, leverage, and cash flow sustainability.  
 The analysis combines structured financial ratio analysis with an Excel dashboard to visualize year-over-year performance trends.
 
+Data source: Apple Form 10-K (FY2024, FY2025).
+Notes: Values are in USD (millions) unless otherwise stated.
+
 ## Key Objectives
 - Assess financial health using income statement, balance sheet, and cash flow statement data  
 - Evaluate profitability, capital structure, liquidity, and earnings quality  
