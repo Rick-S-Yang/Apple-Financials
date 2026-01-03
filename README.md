@@ -19,21 +19,36 @@ Notes: Values are in USD (millions) unless otherwise stated.
 - Cash Flow Quality: Operating Cash Flow to Net Income, Free Cash Flow
 
 ## Content Preview
+# Financial Statement Analysis & Excel Dashboard
 
-### Dashboard
-![Dashboard](images/dashboard.png)
+**Data Source:** Apple Inc. Annual Reports (Form 10-K)  
+**Period:** FY2024 & FY2025 (in USD millions)
 
-### Key Ratios Summary
-![Key Ratios](images/key-ratios.png)
+## Financial Statements
 
-### Income Statement (Formatted)
+### Income Statement
 ![Income Statement](images/income-statement.png)
 
-### Balance Sheet (Formatted)
+### Balance Sheet
 ![Balance Sheet](images/balance-sheet.png)
 
-### Cash Flow Statement (Formatted)
+### Cash Flow Statement
 ![Cash Flow Statement](images/cash-flow-statement.png)
+
+## Key Ratios Summary
+![Key Ratios Summary](images/key-ratios.png)
+
+## Dashboard
+![Financial Dashboard](images/dashboard.png)
+
+## Key Insights
+
+- Profitability remained relatively stable year-over-year
+- Liquidity is slightly constrained
+- Leverage increased, indicating higher debt reliance
+- Free cash flow improved, suggesting stronger cash generation
+
+
 
 
 
