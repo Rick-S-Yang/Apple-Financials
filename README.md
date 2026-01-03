@@ -31,7 +31,7 @@
 - Leverage increased, suggesting higher reliance on debt financing.
 - Free cash flow improved, demonstrating enhanced cash generation capacity.
 
-## How to View
+## Notes
 All visuals are provided inline for review — no file download is required.
 
 
