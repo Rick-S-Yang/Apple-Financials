@@ -19,20 +19,22 @@ Notes: Values are in USD (millions) unless otherwise stated.
 - Cash Flow Quality: Operating Cash Flow to Net Income, Free Cash Flow
 
 ## Content Preview
-“Dashboard”: 
+
+### Dashboard
 ![Dashboard](images/dashboard.png)
 
-"Key Ratios":
-![Dashboard](images/key-ratios.png)
+### Key Ratios Summary
+![Key Ratios](images/key-ratios.png)
 
-“Income Statement”: 
-![Dashboard](images/income-statement.png)
+### Income Statement (Formatted)
+![Income Statement](images/income-statement.png)
 
-“Balance Sheet”:
-![Dashboard](images/balance-sheet.png)
+### Balance Sheet (Formatted)
+![Balance Sheet](images/balance-sheet.png)
 
-“Cash Flow Statement”:
-![Dashboard](images/cash-flow-statement.png)
+### Cash Flow Statement (Formatted)
+![Cash Flow Statement](images/cash-flow-statement.png)
+
 
 
 
